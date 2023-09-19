@@ -11,14 +11,14 @@ h1,h2,h3,h4,h5{
     font-family: 'Montserrat', sans-serif;
 }
 section#main_section{
-    background: url(img/background_linktree.png) ;
+    background: url(img/background_linktree.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 103vh;
 }
 .container{
-    width: 85%;
+    width: 427px;
     margin: auto;
     padding: 20px 0px;
 }
@@ -26,6 +26,7 @@ section#main_section{
     text-align: center;
     color: white;
     padding-top: 40px;
+    margin-bottom: 35px;
 }
 .header_section .profile_img {
     width: 80px;
@@ -89,7 +90,7 @@ section#main_section .main_wrapper {
     position: relative;
     align-items: center;
     padding: 12px 0px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     transition: .2s;
     border: 1px solid transparent;
 }
@@ -169,7 +170,7 @@ input{
 }
 .footer_section {
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .footer_section:before {
@@ -187,6 +188,7 @@ input{
     width: 200px;
     justify-content: space-between;
     margin: auto;
+    margin-top: 34px;
 }
 
 .footer_section .social_limks a {
